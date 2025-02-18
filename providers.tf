@@ -7,6 +7,6 @@ terraform {
   }
 }
 
-provider "aws" {
-    profile = "master-admin"
-}
+# provider "aws" {
+#     profile = "master-admin"
+# }
